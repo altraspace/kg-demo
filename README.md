@@ -1,7 +1,8 @@
 
 
-## About Laravel
+## Project setup -
 
+### Download the code
 
 ### Set the .env File 
 ```bash
