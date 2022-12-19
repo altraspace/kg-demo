@@ -10,11 +10,6 @@ database credentials
 email credentials
 ```
 
-### Run project
-```bash
-php artisan serve
-```
-
 ### Migrate Database Files
 ```bash
 php artisan migrate
@@ -25,6 +20,13 @@ php artisan migrate
 php artisan db:seed
 ```
 
+### Run project
+```bash
+php artisan serve
+```
+
 ### Run project in browser
 ```bash
 http://127.0.0.1:8000
+```
+
