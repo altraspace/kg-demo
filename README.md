@@ -10,6 +10,11 @@ database credentials
 email credentials
 ```
 
+### Setup Composer
+```bash
+composer install
+```
+
 ### Migrate Database Files
 ```bash
 php artisan migrate
